@@ -22,7 +22,7 @@
     "glob": "^11.0.0",
     "inflight": "^1.0.6",
     "next": "15.0.0-canary.98",
-    "next-auth": "5.0.0-beta.19",
+    "next-auth": "5.0.0-beta.20",
     "npmlog": "^7.0.1",
     "postcss": "8.4.38",
     "react": "19.0.0-rc-3208e73e-20240730",
