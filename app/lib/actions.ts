@@ -85,7 +85,7 @@ export async function createInvoice(prevState: State, formData: FormData) {
 }
 
 export async function updateInvoice(
-    id: String,
+    id: string,
     prevState: State,
     formData: FormData) {
     // const id = formData.get('id');
